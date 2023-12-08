@@ -22,7 +22,7 @@ def get_requirements(file_path: str) -> List[str]:
     return requirements
 
 setup(
-    name='mlproject',
+    name='Customer Churn Prediction',
     version='0.0.1',
     author='Vinay',
     author_email='vinayc.gorantla@gmail.com',
